@@ -1,0 +1,20 @@
+.container {
+  padding: 2rem 1rem;
+}
+
+.card {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.title {
+  margin: 0 0 1rem 0;
+  font-size: 1.875rem;
+  font-weight: 700;
+  color: #111827;
+}
+
+.text {
+  color: #6b7280;
+  font-size: 1rem;
+}
